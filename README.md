@@ -1,4 +1,4 @@
-# trial
+# Vue Crash Course - Udemy
 
 > A Vue.js project
 
